@@ -1,4 +1,4 @@
-# LARAVEL-RESTAURANT
+# LARAVEL-CRUD-PROJECT
 
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
@@ -34,7 +34,7 @@ Thanks for visiting my GitHub account!
 
 Step-1: **For Set up Project**
 
--   Clone this to your local machine using `gh repo clone learnwithfair/laravel-restaurant`
+-   Clone this to your local machine using `gh repo clone learnwithfair/laravel-crud-project`
 -   Run command in the root directory `npm install`
 
 Step-2: **Connect Database**
