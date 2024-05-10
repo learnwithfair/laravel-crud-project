@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+}
+
+.header>ul>li {
+    display: inline;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: 900;
+    cursor: pointer;
+
+}
